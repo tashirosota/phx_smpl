@@ -1,0 +1,8 @@
+{
+  "name": "phx_smpl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tashirosota/phx_smpl.git",
+  "author": "Tashiro <g4160hc@gmail.com>",
+  "license": "MIT"
+}
