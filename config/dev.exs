@@ -2,8 +2,8 @@ import Config
 
 # Configure your database
 config :phx_smpl, PhxSmpl.Repo,
-  username: "postgres",
-  password: "postgres",
+  username: "root",
+  password: "root",
   database: "phx_smpl_dev",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
