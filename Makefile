@@ -4,6 +4,6 @@ c:
 	iex -S mix phx.server
 s:
 	mix phx.server
-donw:
+down:
 	docker-compose down
 
